@@ -5,4 +5,5 @@ Usage :
 This repository serves as a resource for researchers interested in understanding the transcriptional divisions within lymphocytic colitis. The codebase can be used to replicate the analysis or extend the research.
 
 Citation:
-If you find this work useful and use it in your research or publication, please consider citing our paper (once published) or this repository. Details on citation will be provided upon publication.
+If you find this work useful and use it in your research or publication, please consider citing our paper. 
+https://onlinelibrary.wiley.com/doi/10.1002/ueg2.12531
