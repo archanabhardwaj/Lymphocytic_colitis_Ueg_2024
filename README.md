@@ -10,4 +10,5 @@ This repository serves as a resource for researchers interested in understanding
 
 # Citation:
 If you find this work useful and use it in your research or publication, please consider citing our paper. 
+Bhardwaj, A., Münch, A., Montague, J., Koch, S., Rosenstiel, P., & Escudero‑Hernández, C. (2024). Lymphocytic colitis can be transcriptionally divided into channelopathic and inflammatory lymphocytic colitis. United European Gastroenterology Journal, 12(6), 737–748. 
 https://onlinelibrary.wiley.com/doi/10.1002/ueg2.12531
