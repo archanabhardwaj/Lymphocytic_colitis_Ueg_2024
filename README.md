@@ -3,7 +3,7 @@ This repository contains the main source code for the project titled "Lymphocyti
 
 # Overview
 
-The analyses presented here provide insights into the molecular heterogeneity of lymphocytic colitis, highlighting differences between lymphocytic colitis subtypes. The codebase includes scripts and workflows used for preprocessing, differential expression analysis, and downstream classification.
+The analyses presented here provide insights into the molecular heterogeneity of lymphocytic colitis and highlighting differences between lymphocytic colitis subtypes. The codebase includes scripts and workflows used for preprocessing, differential expression analysis, and downstream classification.
 
 # Usage : 
 This repository serves as a resource for researchers interested in understanding the transcriptional divisions within lymphocytic colitis. The codebase can be used to replicate the analysis or extend the research.
