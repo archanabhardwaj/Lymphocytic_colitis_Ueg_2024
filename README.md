@@ -1,3 +1,4 @@
+<img width="2000" height="1093" alt="image" src="https://github.com/user-attachments/assets/86ec15d7-0550-4acb-991b-69f34a8a110b" />
 # Description
 This repository contains the main source code for the project titled "Lymphocytic colitis can be transcriptionally divided into channelopathic and inflammatory lymphocytic colitis." The project aims to explore the transcriptional patterns and classification of lymphocytic colitis into distinct subtypes based on gene expression profiles.
 
